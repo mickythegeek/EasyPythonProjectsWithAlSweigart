@@ -1,7 +1,7 @@
 # """Welcome to Bagels, a deductive logic game. Guess the numBer Based on the clues you get"""
 
 import random
-NUM_DIGITS = 3 
+NUM_DIGITS = 2
 MAX_GUESSES = 10
 
 
